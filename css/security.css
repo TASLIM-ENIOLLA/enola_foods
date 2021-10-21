@@ -1,0 +1,14 @@
+@import url("common.css");
+.a{
+	/*background: linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 1));*/
+	background-size: cover;
+	background-position: center;
+}
+.applock_interface{
+	/*background: linear-gradient(rgba(10, 10, 10, .9), rgba(10, 10, 10, .9));*/
+	background-size: cover;
+	background-position: center;
+}
+::placeholder{
+	color: inherit;
+}

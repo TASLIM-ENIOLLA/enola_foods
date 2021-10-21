@@ -1,0 +1,15 @@
+@import url("common.css");
+.fa{
+	display: block;
+}
+.features{
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+	grid-template-rows: 1fr;
+}
+.side-pane-open{
+	transform: translateX(0%);
+}
+.side-pane-close{
+	transform: translateX(-110%);
+}

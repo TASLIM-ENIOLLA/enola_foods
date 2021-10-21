@@ -1,0 +1,4 @@
+@import url("common.css");
+.a > div{
+	min-width: 100%;
+}
